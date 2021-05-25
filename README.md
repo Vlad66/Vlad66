@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vlad66
-- 👀 I’m interested in: QA Automation on Java
+- 👀 I’m interested in: QA Automation on Java and Worpdress Projects
 - 🌱 I’m currently learning: Java
 - 💞️ I’m opened for: collaboration on interesting projects
 - 📫 How to reach: vlv.zagorodnyi@gmail.com
